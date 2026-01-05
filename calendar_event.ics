@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Cyrielle Ternon-Weber Exhibition//EN
+BEGIN:VEVENT
+ UID:cyrielle-ternon-weber-exhibit-sion-20260130
+ DTSTAMP:20260105T000000Z
+ DTSTART:20260130
+ DTEND:20260216
+ SUMMARY:Cyrielle Ternon-Weber expose à l'Espace Culturel El Encuento
+ DESCRIPTION:Exposition artistique de Cyrielle Ternon-Weber à l'Espace Culturel El Encuento\, Sion.\n
+  Plus d'informations : https://cyweb.com/cy_sion_exhib_xling_combined.pdf
+ LOCATION:Espace Culturel El Encuento\, Rue de l'Église 7\, 3960 Sion\, Suisse
+END:VEVENT
+END:VCALENDAR   
