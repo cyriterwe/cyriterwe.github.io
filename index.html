@@ -1,10 +1,36 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="refresh" content="0; url=calendar_event.ics">
+    <title>exhib.png</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background-color: #fff;
+        }
+        
+        img {
+            display: block;
+            width: 100%;
+            height: auto;
+            max-width: 640px;
+        }
+        
+        @media (max-width: 640px) {
+            img {
+                max-width: 100%;
+            }
+        }
+    </style>
 </head>
 <body>
-    <p>Redirecting to calendar event...</p>
-    <a href="./calendar_event.ics">If not redirected, add this event manually to your calendar</a>
+    <img src="cy_exhib.png" alt="Poster exhibition Cyrielle Ternon-Weber">
 </body>
 </html>
